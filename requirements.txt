@@ -1,0 +1,2 @@
+# Notebook tooling; gameplay currently uses only Python's standard library.
+jupyterlab
